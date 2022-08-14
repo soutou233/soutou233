@@ -1,5 +1,10 @@
 ### Hi there 👋
+My name is Yuqian Zhuang, and you may call me Jeremy. Graduated from ASU CS program, and I am currently pursuing my CS master degree in ASU.
+#### I'm trying to be a Software Engineer. Spending all my time on job preparation rn🤔.
 
+- 📫 Ask me anything: [My Email](mailto:yqzhuang19@gmail.com)
+- 🔭 My Career: [Linkedin](https://www.linkedin.com/in/yuqianzhuang/)
+- 🌱 My Website: [Portfolio]()
 <!--
 **soutou233/soutou233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
