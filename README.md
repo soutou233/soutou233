@@ -1,5 +1,7 @@
 ### Hi there 👋
-My name is Yuqian Zhuang, and you may call me Jeremy. Graduated from ASU CS program, and I am currently pursuing my CS master degree in ASU.
+My name is Yuqian Zhuang, and you may call me Jeremy. Graduated from ASU with B.S in CS. Currently pursuing my CS master degree in ASU. <br />
+<br />
+I'm experienced with JS, Java, C/C++, Node, React, SQL, and still keep learning new and fun staffs.
 #### I'm trying to be a Software Engineer. Spending all my time on job preparation rn🤔.
 
 - 📫 Ask me anything: [My Email](mailto:yqzhuang19@gmail.com)
